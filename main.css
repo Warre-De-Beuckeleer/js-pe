@@ -1,0 +1,7 @@
+.hidden {
+    display: none;
+}
+
+#errorList p {
+    margin-bottom: 0px;
+}
